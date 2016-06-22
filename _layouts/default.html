@@ -21,6 +21,10 @@
     <link rel="icon" href="/assets/img/favicon.png">
     <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+
+    {% if jekyll.environment == 'production' %}
+        {% include analytics.html %}
+    {% endif %}
 </head>
 
 <body>

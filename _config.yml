@@ -21,3 +21,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
+
+
+# Google Analytics
+google_analytics: UA-46371148-1
