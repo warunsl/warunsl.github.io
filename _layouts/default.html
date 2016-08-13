@@ -34,7 +34,9 @@
     </div>
 
 </body>
-    <div class="footer">
-        {% include footer.html %}
-    </div>
+    {% if page.url != '/' %}
+        <div class="footer">
+            {% include footer.html %}
+        </div>
+    {% endif %}
 </html>
