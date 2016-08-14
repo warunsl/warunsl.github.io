@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="post">
+    <h1 class="post__title">{{ page.title }}</h1>
+    <p class="post__date">{{ page.author }}</p>
+
+    {% for aquote in page.quotes %}
+        <div class="post__quote">
+            {{ aquote }}
+        </div>
+    {% endfor %}
+
+</div>
