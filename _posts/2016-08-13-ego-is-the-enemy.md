@@ -9,11 +9,9 @@ quotes:
 
 - Be slow in deliberation, but be prompt to carry out your resolves
 
-- Best thing which we have in ourselves is good judgment.
+- Best thing which we have in ourselves is good judgment. For the greatest thing in the smallest compass is a sound mind in a human body.
 
-- For the greatest thing in the smallest compass is a sound mind in a human body.
-
-- One must ask - if your belief in yourself is not dependent on actual achievement, then what is it dependent on? The answer, too often when we are just setting out, is nothing. Ego. And this is why we so often see precipitous rises followed by calamitous falls.
+- One must ask&#58; if your belief in yourself is not dependent on actual achievement, then what is it dependent on? The answer, too often when we are just setting out, is nothing. Ego. And this is why we so often see precipitous rises followed by calamitous falls.
 
 - We will learn that though we think big, we must act and live small in order to accomplish what we seek. Because we will be action and education focused, and forgo validation and status, our ambition will not be grandiose but iterative—one foot in front of the other, learning and growing and putting in the time.
 
@@ -31,13 +29,13 @@ quotes:
 
 - Opportunities are not usually deep, virgin pools that require courage and boldness to dive into, but instead are obscured, dusted over, blocked by various forms of resistance. What is really called for in these circumstances is clarity, deliberateness, and methodological determination.
 
-- Receive feedback, maintain hunger, and chart a proper course in life. Pride dulls these senses. Or in other cases, it tunes up other negative parts of ourselves - sensitivity, a persecution complex, the ability to make everything about us.
+- Receive feedback, maintain hunger, and chart a proper course in life. Pride dulls these senses. Or in other cases, it tunes up other negative parts of ourselves&#58; sensitivity, a persecution complex, the ability to make everything about us.
 
-- The question to ask, when you feel pride, then, is this - What am I missing right now that a more humble person might see? What am I avoiding, or running from, with my bluster, franticness, and embellishments? It is far better to ask and answer these questions now, with the stakes still low, than it will be later.
+- The question to ask, when you feel pride, then, is this&#58; What am I missing right now that a more humble person might see? What am I avoiding, or running from, with my bluster, franticness, and embellishments? It is far better to ask and answer these questions now, with the stakes still low, than it will be later.
 
 - You can’t build a reputation on what you’re going to do,
 
-- Every time you sit down to work, remind yourself - I am delaying gratification by doing this. I am passing the marshmallow test. I am earning what my ambition burns for. I am making an investment in myself instead of in my ego. Give yourself a little credit for this choice, but not so much, because you’ve got to get back to the task at hand - practicing, working, improving.
+- Every time you sit down to work, remind yourself - I am delaying gratification by doing this. I am passing the marshmallow test. I am earning what my ambition burns for. I am making an investment in myself instead of in my ego. Give yourself a little credit for this choice, but not so much, because you’ve got to get back to the task at hand&#58; practicing, working, improving.
 
 - Work is finding yourself alone at the track when the weather kept everyone else indoors. Work is pushing through the pain and crappy first drafts and prototypes. It is ignoring whatever plaudits others are getting, and more importantly, ignoring whatever plaudits you may be getting. Because there is work to be done. Work doesn’t want to be good. It is made so, despite the headwind.
 
@@ -55,7 +53,7 @@ quotes:
 
 - All of us regularly say yes unthinkingly, or out of vague attraction, or out of greed or vanity. Because we can’t say no—because we might miss out on something if we did. We think “yes” will let us accomplish more, when in reality it prevents exactly what we seek. All of us waste precious life doing things we don’t like, to prove ourselves to people we don’t respect, and to get things we don’t want.
 
-- According to Seneca, the Greek word euthymia is one we should think of often - it is the sense of our own path and how to stay on it without getting distracted by all the others that intersect it.
+- According to Seneca, the Greek word euthymia is one we should think of often&#58; it is the sense of our own path and how to stay on it without getting distracted by all the others that intersect it.
 
 - So why do you do what you do? That’s the question you need to answer. Stare at it until you can. Only then will you understand what matters and what doesn’t. Only then can you say no, can you opt out of stupid races that don’t matter, or even exist. Only then is it easy to ignore “successful” people, because most of the time they aren’t—at least relative to you, and often even to themselves.
 
@@ -71,7 +69,7 @@ quotes:
 
 - Face the symptoms. Cure the disease. Ego makes it so hard—it’s easier to delay, to double down, to deliberately avoid seeing the changes we need to make in our lives.
 
-- He who fears death will never do anything worthy of a living man," Seneca once said. Alter that - He who will do anything to avoid failure will almost certainly do something worthy of a failure.
+- He who fears death will never do anything worthy of a living man," Seneca once said. Alter that&#58; He who will do anything to avoid failure will almost certainly do something worthy of a failure.
 
 - You're not as good as you think. You don’t have it all figured out. Stay focused. Do better.
 
