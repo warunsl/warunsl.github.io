@@ -3,11 +3,12 @@ layout: default
 ---
 
 {% include header.html %}
-
+<p>Excerpts from books I have enjoyed reading.</p>
+<br>
 <div class="blog">
     <ul>
         {% for post in site.posts %}
-            {% if post.categories contains 'hikes' %}
+            {% if post.categories contains 'excerpts' %}
                 <li>
                     <span class="date">{{ post.date | date: '%Y %b %d' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
                 </li>

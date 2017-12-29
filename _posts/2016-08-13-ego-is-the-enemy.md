@@ -1,5 +1,6 @@
 ---
 layout: quote
+categories: excerpts
 title: 'Ego Is The Enemy'
 author: 'Ryan Holiday'
 quotes:
