@@ -3,11 +3,11 @@ layout: quote
 title: 'Ego Is The Enemy'
 author: 'Ryan Holiday'
 quotes:
-- Just one thing keeps ego around—comfort. Pursuing great work—whether it is in sports or art or business—is often terrifying. Ego soothes that fear. It’s a salve to that insecurity. Replacing the rational and aware parts of our psyche with bluster and self-absorption, ego tells us what we want to hear, when we want to hear it. But it is a short-term fix with a long-term consequence.
+- Just one thing keeps ego around—comfort. Pursuing great work—whether it is in sports or art or business—is often terrifying. Ego soothes that fear. It’s a slave to that insecurity. Replacing the rational and aware parts of our psyche with bluster and self-absorption, ego tells us what we want to hear, when we want to hear it. But it is a short-term fix with a long-term consequence.
 
-- Be affable in your relations with those who approach you, and never haughty; for the pride of the arrogant even slaves can hardly endure
+- Be affable in your relations with those who approach you, and never haughty; for the pride of the arrogant even slaves can hardly endure.
 
-- Be slow in deliberation, but be prompt to carry out your resolves
+- Be slow in deliberation, but be prompt to carry out your resolves.
 
 - Best thing which we have in ourselves is good judgment. For the greatest thing in the smallest compass is a sound mind in a human body.
 
@@ -15,7 +15,7 @@ quotes:
 
 - We will learn that though we think big, we must act and live small in order to accomplish what we seek. Because we will be action and education focused, and forgo validation and status, our ambition will not be grandiose but iterative—one foot in front of the other, learning and growing and putting in the time.
 
-- We seem to think that silence is a sign of weakness. That being ignored is tantamount to death (and for the ego, this is true). So we talk, talk, talk as though our life depends on it. In actuality, silence is strength—particularly early on in any journey. As the philosopher (and as it happens, a hater of newspapers and their chatter) Kierkegaard warned, “Mere gossip anticipates real talk, and to express what is still in thought weakens action by forestalling it.
+- We seem to think that silence is a sign of weakness. That being ignored is tantamount to death (and for the ego, this is true). So we talk, talk, talk as though our life depends on it. In actuality, silence is strength—particularly early on in any journey. As the philosopher (and as it happens, a hater of newspapers and their chatter) Kierkegaard warned, "Mere gossip anticipates real talk, and to express what is still in thought weakens action by forestalling it".
 
 - And that’s what is so insidious about talk. Anyone can talk about himself or herself. Even a child knows how to gossip and chatter. Most people are decent at hype and sales. So what is scarce and rare? Silence. The ability to deliberately keep yourself out of the conversation and subsist without its validation. Silence is the respite of the confident and the strong.
 
