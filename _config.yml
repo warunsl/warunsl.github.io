@@ -25,3 +25,7 @@ highlighter: rouge
 
 # Google Analytics
 google_analytics: UA-46371148-1
+
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
