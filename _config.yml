@@ -5,7 +5,7 @@ google_verification: null
 
 
 # File management
-include: [".htaccess"]
+include: [".htaccess", ".well-known"]
 exclude: ["README.md", "LICENSE"]
 
 
