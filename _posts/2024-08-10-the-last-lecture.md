@@ -5,8 +5,8 @@ title: 'The Last Lecture'
 author: 'Randy Pausch, Jeffrey Zaslow'
 quotes:
 - Never make a decision until you have to.
-- He'd also warn me that even if I was in a position of strength, whether at work or in relationships, I had to play fair. \"Just because you're in the driver's seat, doesn't mean you have to run people over\".
-- \"How many men are on the football team at a time?\". \"And how many are touching the football at any given time?\". \" Right!. So we are going to work on what those other twenty-one guys are doing.\"
+- He'd also warn me that even if I was in a position of strength, whether at work or in relationships, I had to play fair. "Just because you're in the driver's seat, doesn't mean you have to run people over".
+- "How many men are on the football team at a time?". "And how many are touching the football at any given time?". "Right!. So we are going to work on what those other twenty-one guys are doing."
 - When you're screwing up and nobody says anything to you anymore, that means they have given up on you.
 - The brick walls are there for a reason.They're not to keep us out. The brick walls are there to give us a chance to show how badly we want something.
 - If you can find your footing between two cultures, sometimes you can have the best of both worlds.
